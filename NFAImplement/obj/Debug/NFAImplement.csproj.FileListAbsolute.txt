@@ -1,0 +1,10 @@
+E:\Learn\Uni\Term5\TLA\NFAImplement\NFAImplement\bin\Debug\NFAImplement.exe.config
+E:\Learn\Uni\Term5\TLA\NFAImplement\NFAImplement\bin\Debug\NFAImplement.exe
+E:\Learn\Uni\Term5\TLA\NFAImplement\NFAImplement\bin\Debug\NFAImplement.pdb
+E:\Learn\Uni\Term5\TLA\NFAImplement\NFAImplement\obj\Debug\NFAImplement.csproj.AssemblyReference.cache
+E:\Learn\Uni\Term5\TLA\NFAImplement\NFAImplement\obj\Debug\NFAImplement.Form1.resources
+E:\Learn\Uni\Term5\TLA\NFAImplement\NFAImplement\obj\Debug\NFAImplement.Properties.Resources.resources
+E:\Learn\Uni\Term5\TLA\NFAImplement\NFAImplement\obj\Debug\NFAImplement.csproj.GenerateResource.cache
+E:\Learn\Uni\Term5\TLA\NFAImplement\NFAImplement\obj\Debug\NFAImplement.csproj.CoreCompileInputs.cache
+E:\Learn\Uni\Term5\TLA\NFAImplement\NFAImplement\obj\Debug\NFAImplement.exe
+E:\Learn\Uni\Term5\TLA\NFAImplement\NFAImplement\obj\Debug\NFAImplement.pdb

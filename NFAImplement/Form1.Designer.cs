@@ -96,7 +96,7 @@ namespace NFAImplement
             this.txtFinalStates.Location = new System.Drawing.Point(90, 70);
             this.txtFinalStates.Name = "txtFinalStates";
             this.txtFinalStates.Size = new System.Drawing.Size(120, 20);
-            this.txtFinalStates.TabIndex = 5;
+            this.txtFinalStates.TabIndex = 2;
             this.txtFinalStates.Enter += new System.EventHandler(this.txtFinalStates_Enter);
             // 
             // lblTransition
@@ -113,7 +113,7 @@ namespace NFAImplement
             this.txtNumTransition.Location = new System.Drawing.Point(349, 12);
             this.txtNumTransition.Name = "txtNumTransition";
             this.txtNumTransition.Size = new System.Drawing.Size(100, 20);
-            this.txtNumTransition.TabIndex = 7;
+            this.txtNumTransition.TabIndex = 3;
             // 
             // txtTransitions
             // 
@@ -121,7 +121,7 @@ namespace NFAImplement
             this.txtTransitions.Multiline = true;
             this.txtTransitions.Name = "txtTransitions";
             this.txtTransitions.Size = new System.Drawing.Size(120, 138);
-            this.txtTransitions.TabIndex = 8;
+            this.txtTransitions.TabIndex = 4;
             // 
             // lblTransitions
             // 
@@ -137,9 +137,10 @@ namespace NFAImplement
             this.isAcceptedByNFA.Location = new System.Drawing.Point(349, 213);
             this.isAcceptedByNFA.Name = "isAcceptedByNFA";
             this.isAcceptedByNFA.Size = new System.Drawing.Size(100, 30);
-            this.isAcceptedByNFA.TabIndex = 10;
+            this.isAcceptedByNFA.TabIndex = 6;
             this.isAcceptedByNFA.Text = "calculate";
             this.isAcceptedByNFA.UseVisualStyleBackColor = true;
+            this.isAcceptedByNFA.Click += new System.EventHandler(this.isAcceptedByNFA_Click);
             // 
             // lblInput
             // 
@@ -155,7 +156,7 @@ namespace NFAImplement
             this.txtInput.Location = new System.Drawing.Point(349, 55);
             this.txtInput.Name = "txtInput";
             this.txtInput.Size = new System.Drawing.Size(100, 20);
-            this.txtInput.TabIndex = 12;
+            this.txtInput.TabIndex = 5;
             // 
             // Form1
             // 

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using System.Diagnostics;
 namespace NFAImplement
 {
     class NFA
@@ -26,7 +26,7 @@ namespace NFAImplement
             get;
             set;
         }
-        public String[] Alphabet
+        public string[] Alphabet
         {
             get;
             set;
@@ -34,6 +34,7 @@ namespace NFAImplement
 
         public bool isAcceptedByNFA(string str)
         {
+            Debug.WriteLine("Input = " + str);
             char[] StrArr = str.ToCharArray();
             return (IsNFA(StrArr, 0, Nodes[0]));
         }
